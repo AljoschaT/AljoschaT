@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aljoscha
 - 👀 I'm interested in IT security, systems engineering and other things
-- 🌱 I'm currently studying HF systems engineering at Teko
+- 🌱 I'm currently studying HF systems engineering
 - 💞️ I want to collaborate on a safer digital world
 - 📫 How to reach me: smoke signal or carrier pigeon
 
